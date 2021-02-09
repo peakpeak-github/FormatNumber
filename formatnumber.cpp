@@ -2,7 +2,7 @@
 #include <string.h>
 #include <math.h>		// round()
 #include <tchar.h>		// Unicode macros
-#include "\c\FormatNumber\formatnumber.h"
+#include "formatnumber.h"
 
 const TCHAR *g_suffixes[] =
 {	
